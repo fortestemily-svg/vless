@@ -4,7 +4,7 @@
       "port": 8080,
       "protocol": "vless",
       "settings": {
-        "clients": [
+        "users": [
           {
             "id": "027aa953-5181-43b1-824c-30065b773a98"
           }
